@@ -1,8 +1,11 @@
 /*
 
-Oyuncu fiziği ve hareketi için transform sınıfını kullanıyoruz. transform.translate ile yer, yön ve boyut ayarlayabiliriz.
+Oyuncu fiziği ve hareketi için transform sınıfını kullanıyoruz. 
+transform.translate ile yer, yön ve boyut ayarlayabiliriz.
 
-Birde Time.deltaTime var. En basit mantık ile anlatırsam bu da nesne hızını saniyeye göre ayarlar diğer türlü nesne hızlı bilgisayarda hızlı yavaşta yavaş hareket eder. Evrensel bir zamana hızı bağlamazsak herkes aynı oyunu oynayamaz 🙂
+Birde Time.deltaTime var. En basit mantık ile anlatırsam bu da nesne hızını 
+saniyeye göre ayarlar diğer türlü nesne hızlı bilgisayarda hızlı yavaşta yavaş 
+hareket eder. Evrensel bir zamana hızı bağlamazsak herkes aynı oyunu oynayamaz 🙂
 
 
 
