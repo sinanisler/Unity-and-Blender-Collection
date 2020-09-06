@@ -1,10 +1,4 @@
-# Usefull Curated Lists for _**Blender**_ and _Unity_
-
-Awesome Github Curated Lists for Blender and Unity
-
-I visit this lists time to time so i wanted to make them more organized on my github and maybe it will help you guys too.
-
-Some of the lists are amazing so help them grow more. If you want to add more list here just commit.
+# Unity and Blender Collection
 
 Lets make our and developer lifes easier. 🤗
 
